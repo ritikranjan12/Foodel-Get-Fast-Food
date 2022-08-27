@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "foodel",
+    "name": "FooDel - Get Food Fast",
     "slug": "foodel",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -22,9 +22,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.ritikranjan.foodel"
     },
     "web": {
       "favicon": "./assets/favicon.png"
